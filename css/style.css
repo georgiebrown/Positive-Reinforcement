@@ -2,7 +2,7 @@
 YELLOW #fede18**/
 
 body{
-  color:#648b9f
+  color:#638a9f
   display: block;
   background-color: #beeeff;
   margin: 0px 50px 0 50px;
@@ -56,7 +56,7 @@ p{
 
 .navbar-toggler{
   border: none!important;
-  color: #648b9f!important;
+  color: #638a9f!important;
 }
 
 .navbar-nav .dropdown-menu{
@@ -70,7 +70,7 @@ p{
   }
 
 li a{
-  color: #648b9f!important;
+  color: #638a9f!important;
   padding-left: 20px!important;
   font-weight: 800;
 }
@@ -124,7 +124,7 @@ button{
   border-radius: 0;
   border: none;
   margin-top: 20px;
-  color: #648b9f!important;
+  color: #638a9f!important;
   background-color: #beeeff;
 }
 

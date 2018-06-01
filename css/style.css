@@ -56,6 +56,8 @@ p{
   color: #638a9f
 }
 
+
+
 .navbar-toggler{
   border: none!important;
   color: #638a9f!important;
@@ -151,6 +153,7 @@ footer{
    width: 100%;
    justify-content: space-between;
    flex-direction: ROW;
+  margin: 0 auto;
 
 }
 

@@ -48,10 +48,12 @@ H1{
   margin: 1rem 0;
   font-weight: 800;
   font-size: 20px;
+  color: #638a9f;
 }
 
 p{
   margin: 10px 0;
+  color: #638a9f
 }
 
 .navbar-toggler{
@@ -139,7 +141,10 @@ img{
 
 H5{
   font-size: 10px;
+  color: #638a9f
 }
+
+
 footer{
   display: flex;
    height: 50px;
